@@ -1,0 +1,13 @@
+# Exlucde IDE and PIO artefacts
+.pio/
+.idea/
+.vscode/
+
+# Exclude build artefacts
+compile_commands.json
+platformio.ini.backup
+
+# Exclude platform specific files
+Thumbs.db
+.DS_Store
+.cache

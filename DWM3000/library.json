@@ -1,0 +1,9 @@
+{
+  "name": "DWM3000",
+  "version": "1.0",
+  "license": "Apache-2.0",
+  "keywords": "uwb, qorvo, dwm3000",
+  "description": "A library that offers functionality to use Qorvo's DWM3000 chips.",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
